@@ -30,7 +30,7 @@ The_Jungle.txt
 The_Odyssey_of_Homer.txt
 
 # Wordlist 
-this is an arbitrary word list that can be entered into the search bar. 
+This is an arbitrary word list that can be entered into the search bar. The list is a starting point for some mental health keywords. 
 
 'love', 'passion', 'faith', 'war'
 'time','seconds', 'minutes', 'days', 'weeks',
