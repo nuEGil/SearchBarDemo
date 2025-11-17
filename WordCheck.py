@@ -104,7 +104,7 @@ def WriteSQL(results, output_dir):
 async def InitializeDatabase():
     start_time = time.time() # start time 
     # base set of tags. 
-    wordlist = sorted(['love', 'passion', 'faith', 'war'
+    wordlist = sorted(['love', 'passion', 'faith', 'war',
                        'time','seconds', 'minutes', 'days', 'weeks',
                        'months', 'years', 'hours', 
                        'mind', 'mental', 'memory', 'memories',
